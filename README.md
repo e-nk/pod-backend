@@ -23,14 +23,13 @@ If you don't have them installed, you can follow the instructions on the [Ruby](
 1. Clone the repository:
 
    ```
-   git@github.com:pod-club/pod-club.git
+   git@github.com:e-nk/pod-backend.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd podclub-api
-   cd backend
+   cd pod-backend
    ```
 
 3. Install the dependencies:
